@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(97, 168, 249);
+  font-family: sans-serif;
+}
+
+header {
+  color: white;
+  margin: 0 auto;
+  width: 500px;
+  text-align: center;
+}
+
+
+section {
+  background-color: white;
+  border-radius: 10px;
+  padding: 15px;
+  width: 500px;
+  margin: 0 auto;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.544);
+}
+
+div {
+  text-align: center;
+  padding: 8px;
+}
+
+.foto {
+  border-radius: 50%;
+  width: 200px;
+}
+
+footer {
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
+
+a,
+a:visited,
+a:active {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
